@@ -17,3 +17,8 @@
 
 # Git Cheat Sheet
 [Git Cheat Sheet](https://i.pinimg.com/originals/7f/cd/6d/7fcd6dc31a3a7e6a6c77203032a2147e.png)
+
+# 커밋메세지 작성 규칙
+
+- `docs` : 문서작업(README.md)
+- `feat` : 새로운 기능 구현
