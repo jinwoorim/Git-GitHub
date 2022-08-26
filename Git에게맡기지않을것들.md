@@ -38,4 +38,4 @@ logs/*.c
 
 # logs 폴더 바로 안, 또는 그 안의 폴더 안의 debug.log
 logs/**/debug.log
-
+```
