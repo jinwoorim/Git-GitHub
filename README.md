@@ -18,6 +18,10 @@
 
 # GitHub 사용하기
 
+- 원격 저장소 사용하기
+- push 와 pull
+- 원격의 브랜치 다루기
+
 # Git Cheat Sheet
 [Git Cheat Sheet](https://i.pinimg.com/originals/7f/cd/6d/7fcd6dc31a3a7e6a6c77203032a2147e.png)
 
