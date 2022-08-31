@@ -11,6 +11,11 @@
 
 # 차원 넘나들기
 
+- 여러 branch 만들어보기
+- branch를 합치는 두가지 방법
+- branch 합치기 실습
+- 충돌 해결하기
+
 # GitHub 사용하기
 
 # Git Cheat Sheet
